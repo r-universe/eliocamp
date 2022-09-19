@@ -8,3 +8,13 @@
 	url = https://github.com/eliocamp/ggperiodic
 	shallow = true
 	registered = true
+[submodule "metamer"]
+	path = metamer
+	url = https://github.com/eliocamp/metamer
+	shallow = true
+	registered = true
+[submodule "metR"]
+	path = metR
+	url = https://github.com/eliocamp/metr
+	shallow = true
+	registered = true

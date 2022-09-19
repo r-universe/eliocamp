@@ -2,5 +2,13 @@
   {
     "package": "ggperiodic",
     "oncran": true
+  },
+  {
+    "package": "metamer",
+    "oncran": true
+  },
+  {
+    "package": "metR",
+    "oncran": true
   }
 ]
