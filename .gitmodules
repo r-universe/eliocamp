@@ -1,20 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/eliocamp/universe
 	shallow = true
 	branch = HEAD
-[submodule "ggperiodic"]
-	path = ggperiodic
-	url = https://github.com/eliocamp/ggperiodic
-	shallow = true
-	registered = true
-[submodule "metamer"]
-	path = metamer
-	url = https://github.com/eliocamp/metamer
+[submodule "ggnewscale"]
+	path = ggnewscale
+	url = https://github.com/eliocamp/ggnewscale
 	shallow = true
 	registered = true
 [submodule "metR"]
 	path = metR
-	url = https://github.com/eliocamp/metr
+	url = https://github.com/eliocamp/metR
+	shallow = true
+	registered = true
+[submodule "ggdatasaver"]
+	path = ggdatasaver
+	url = https://github.com/eliocamp/ggdatasaver
 	shallow = true
 	registered = true

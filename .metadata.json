@@ -1,14 +1,13 @@
 [
   {
-    "package": "ggperiodic",
-    "oncran": true
-  },
-  {
-    "package": "metamer",
-    "oncran": true
+    "package": "ggnewscale",
+    "oncran": false
   },
   {
     "package": "metR",
     "oncran": true
+  },
+  {
+    "package": "ggdatasaver"
   }
 ]
