@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/eliocamp/universe
 	branch = HEAD
+[submodule "ggdatasaver"]
+	path = ggdatasaver
+	url = https://github.com/eliocamp/ggdatasaver
 [submodule "ggnewscale"]
 	path = ggnewscale
 	url = https://github.com/eliocamp/ggnewscale
 [submodule "metR"]
 	path = metR
 	url = https://github.com/eliocamp/metR
-[submodule "ggdatasaver"]
-	path = ggdatasaver
-	url = https://github.com/eliocamp/ggdatasaver
