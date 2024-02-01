@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/eliocamp/universe
+	url = https://github.com/eliocamp/eliocamp.r-universe.dev
 	branch = HEAD
 [submodule "ggdatasaver"]
 	path = ggdatasaver
