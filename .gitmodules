@@ -11,3 +11,6 @@
 [submodule "metR"]
 	path = metR
 	url = https://github.com/eliocamp/metR
+[submodule "rcmip6"]
+	path = rcmip6
+	url = https://github.com/eliocamp/rcmip6
